@@ -16,9 +16,9 @@
 
 - 📫 Reach out me at **banerjee.souritra@gmail.com**
 
-- ⚡ Fun fact **I think I am funny :)**
+- ⚡ Fun fact **I think I am funny :)** 
 
-<h4 align="center">Check out my Profile Here : [Souritra's Portfolio](https://banerjeesouritra.wixsite.com/sb01) </h4>
+- 🔭 Check out my Profile Here :   [Souritra's Portfolio](https://banerjeesouritra.wixsite.com/sb01)
 
 
 <h3 align="left">Connect with me:</h3>
