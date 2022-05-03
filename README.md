@@ -8,19 +8,17 @@
 
 - 🌱 I’m currently learning **Data Science & AI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SouRitra01?tab=repositories](https://github.com/SouRitra01?tab=repositories)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/SouRitra01?tab=repositories)
 
-- 📝 I often write articles on [https://medium.com/@Souritra_speaking](https://medium.com/@Souritra_speaking)
+- 📝 I often write articles on [@Souritra_speaking](https://medium.com/@Souritra_speaking)
 
 - 💬 Ask me about **Data Analytics & Data Science**
 
-- 📫 Reach out me **banerjee.souritra@gmail.com**
+- 📫 Reach out me at **banerjee.souritra@gmail.com**
 
 - ⚡ Fun fact **I think I am funny :)**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<h4 align="center">Check out my Profile Here : [Souritra's Portfolio](https://banerjeesouritra.wixsite.com/sb01) </h4>
 
 
 <h3 align="left">Connect with me:</h3>
