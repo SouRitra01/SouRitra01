@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souritra01&label=Profile%20views&color=0e75b6&style=flat" alt="souritra01" /> </p>
 
-- 🔭 I’m currently working on **improving myself**
+- 🔭 2+ yrs experience as a Business Analyst 
 
 - 🌱 I’m currently learning **Data Science & AI**
 
@@ -12,7 +12,7 @@
 
 - 📝 I often write articles on [@Souritra_speaking](https://medium.com/@Souritra_speaking)
 
-- 💬 Ask me about **Data Analytics & Data Science**
+- 💬 Ask me about **Business Analytics/ Data Analytics & Data Science**
 
 - 📫 Reach out me at **banerjee.souritra@gmail.com**
 
