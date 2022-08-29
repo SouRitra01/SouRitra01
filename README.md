@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souritra01&label=Profile%20views&color=0e75b6&style=flat" alt="souritra01" /> </p>
 
-- 🔭 2+ yrs experience as a Business Analyst 
+- 🔭 1.5 yr of experience as a Business Analyst #OpentoWork
 
 - 🌱 I’m currently learning **Data Science & AI**
 
