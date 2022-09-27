@@ -4,15 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souritra01&label=Profile%20views&color=0e75b6&style=flat" alt="souritra01" /> </p>
 
-- 🔭 1.5 yr of experience as a Business Analyst #OpentoWork
+- 🔭 1.5 yr of experience in Data Analytics domain. Currently working as a **Data Analyst** in **Amazon**.
 
-- 🌱 I’m currently learning **Data Science & AI**
+- 🌱 Currently learning **Full Stack Data Science & AI** from **IIT Madras**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/SouRitra01?tab=repositories)
 
 - 📝 I often write articles on [@Souritra_speaking](https://medium.com/@Souritra_speaking)
 
-- 💬 Ask me about **Business Analytics/ Data Analytics & Data Science**
+- 💬 Ask me about **Data Analytics & Data Science**
 
 - 📫 Reach out me at **banerjee.souritra@gmail.com**
 
