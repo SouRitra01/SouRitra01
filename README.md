@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souritra01&label=Profile%20views&color=0e75b6&style=flat" alt="souritra01" /> </p>
 
-- 🔭 1.5 yr of experience in Data Analytics domain. Currently working as a **Data Analyst** in **Amazon**.
+- 🔭 2+ yr of experience in Data Analytics domain. Currently working as a **Data Analyst** in **Amazon**.
 
 - 🌱 Currently learning **Full Stack Data Science & AI** from **IIT Madras**
 
