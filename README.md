@@ -18,16 +18,7 @@
 
 - ⚡ Fun fact **I think I am funny :)** 
 
-- 🔭 Check out my Profile Here :   [Souritra's Portfolio](https://banerjeesouritra.wixsite.com/sb01)
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/souritra01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="souritra01" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/souritra-banerjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="souritra-banerjee" height="30" width="40" /></a>
-<a href="https://kaggle.com/souritrabanerjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="souritrabanerjee" height="30" width="40" /></a>
-<a href="https://medium.com/@souritra_speaking" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@souritra_speaking" height="30" width="40" /></a>
-</p>
 
 <img align="right" alt="coding" width="500" src="https://www.segalbenz.com/sites/default/files/SB-blog-5-research-stats_112420-550x300.gif">
 
