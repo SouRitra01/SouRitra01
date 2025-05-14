@@ -1,6 +1,6 @@
 <img src="https://analyticsindiamag.com/wp-content/uploads/2019/02/Digital-Marketing-Write-For-Us.gif">
 <h1 align="center">Hi 👋, I'm Souritra</h1>
-<h3 align="center">Business Analyst Professional & An aspiring Data Scientist from India</h3>
+<h3 align="center">Operational Research BI Analyst Professional & Data Scientist Speciallist from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souritra01&label=Profile%20views&color=0e75b6&style=flat" alt="souritra01" /> </p>
 
