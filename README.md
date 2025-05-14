@@ -4,9 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souritra01&label=Profile%20views&color=0e75b6&style=flat" alt="souritra01" /> </p>
 
-- 🔭 3+ yr of experience in Data Analytics domain. Currently working as a **Data Analyst** in **Amazon**.
+- 🔭 5+ yr of experience in Data Analytics/ Data Science domain. Currently working as a **Ops Reasearch BI Analyst** in **Amazon Development Center**.
 
-- 🌱 Currently learning **Full Stack Data Science & AI** from **IIT Madras**
+- 🌱 PGD on **Full Stack Data Science & AI** from **IIT Madras**
+
+- 💬 Connect 1:1 with me at [TopMate](https://topmate.io/souritra_banerjee)
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/SouRitra01?tab=repositories)
 
