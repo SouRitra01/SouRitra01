@@ -6,7 +6,7 @@
 
 - 🔭 5+ yr of experience in Data Analytics/ Data Science domain. Currently working as a **Ops Reasearch BI Analyst** in **Amazon Development Center**.
 
-- 🌱 PGD on **Full Stack Data Science & AI** from **IIT Madras**
+- 🌱 **Full Stack Data Science & AI** from **IIT Madras**
 
 - 💬 Connect 1:1 with me at [TopMate](https://topmate.io/souritra_banerjee)
 
