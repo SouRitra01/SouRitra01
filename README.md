@@ -41,7 +41,7 @@ I regularly write articles and blog posts about analytics, data science, NLP, an
 
 Feel free to reach out:
 
-- 💬 Ask me about data science and analytics.
+- 💬 Ask me about data science and analytics [Connect 1:1](https://topmate.io/souritra_banerjee/)
 - 📧 Email: **souritra.banerjee@gmail.com**
 - 🔗 LinkedIn: [Souritra Banerjee](https://www.linkedin.com/in/souritra1/)
 - 🧑‍💻 GitHub: [SouRitra01](https://github.com/SouRitra01)
