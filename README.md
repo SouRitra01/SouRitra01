@@ -1,36 +1,49 @@
-<img src="https://analyticsindiamag.com/wp-content/uploads/2019/02/Digital-Marketing-Write-For-Us.gif">
+<img src="https://analyticsindiamag.com/wp-content/uploads/2019/02/Digital-Marketing-Write-For-Us.gif" align="center" width="100%" />
+
 <h1 align="center">Hi 👋, I'm Souritra</h1>
-<h3 align="center">Operational Research BI Analyst Professional & Data Scientist Speciallist from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=souritra01&label=Profile%20views&color=0e75b6&style=flat" alt="souritra01" /> </p>
+<h3 align="center">Operational Research BI Analyst Professional & Data Scientist Specialist from India</h3>
 
-- 🔭 5+ yr of experience in Data Analytics/ Data Science domain. Currently working as a **Ops Reasearch BI Analyst** in **Amazon Development Center**.
+### 👨‍💻 About Me
 
-- 🌱 **Full Stack Data Science & AI** from **IIT Madras**
+I’m a BI Engineer at Amazon, bridging research science, data engineering, and operations to drive supply chain innovation. With over 5 years of experience across data analytics, machine learning and operational research, I transform raw data into actionable insights that deliver faster, smarter, and more efficient outcomes. Currently working at Amazon Development Center.
 
-- 💬 Connect 1:1 with me at [TopMate](https://topmate.io/souritra_banerjee)
+### 🧰 Tech Stack & Tools
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/SouRitra01?tab=repositories)
-
-- 📝 I often write articles on [@Souritra_speaking](https://medium.com/@Souritra_speaking)
-
-- 💬 Ask me about **Data Analytics & Data Science**
-
-- 📫 Reach out me at **banerjee.souritra@gmail.com**
-
-- ⚡ Fun fact **I think I am funny :)** 
-
-
-
-<img align="right" alt="coding" width="500" src="https://www.segalbenz.com/sites/default/files/SB-blog-5-research-stats_112420-550x300.gif">
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/N/numpy-logo-479C24EC79-seeklogo.com.png" alt="NumPy" width="40" height="40"/> </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
-  <a href="https://powerbi.microsoft.com/en-au/" target="_blank" rel="noreferrer"> <img src="https://static.wikia.nocookie.net/logopedia/images/8/8c/Kisspng-power-bi-business-intelligence-microsoft-azure-mic-office-365-d-nieuwe-cloud-omgeving-dynamics-on-5be7b365088c80.991032501541911397035.png/revision/latest/scale-to-width-down/1504?cb=20200213050332" alt="PowerBI" width="40" height="40"/> </a> <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://iconape.com/wp-content/files/zt/110872/svg/tableau-software.svg" alt="Tableau" width="40" height="40"/>
-</a> <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/r-programming-language.png" alt="R" width="40" height="40"/> </a>
-  <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/1101px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="Excel" width="40" height="40"/> </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=souritra01&show_icons=true&locale=en&layout=compact" alt="souritra01" /></p>
+### 💡 What I Do
+
+- Build and maintain analytics pipelines using AWS (Redshift, S3, Glue, Lambda) and Azure.
+- Design interactive dashboards in Power BI, QuickSight, and Tableau to empower self-service analytics.
+- Develop predictive models and machine learning solutions using Python, R, and SQL.
+- Architect ETL frameworks and CI/CD pipelines that enable robust data operations.
+- Mentor aspiring data professionals and share knowledge through community outreach.
+
+### 📝 Blogs & Articles
+
+I regularly write articles and blog posts about analytics, data science, NLP, and even cricket! Check out my writings on [Medium](https://medium.com/@Souritra_speaking).
+
+### 📫 Connect with Me
+
+Feel free to reach out:
+
+- 💬 Ask me about data science and analytics.
+- 📧 Email: **souritra.banerjee@gmail.com**
+- 🔗 LinkedIn: [Souritra Banerjee](https://www.linkedin.com/in/souritra1/)
+- 🧑‍💻 GitHub: [SouRitra01](https://github.com/SouRitra01)
+- 🌐 Portfolio: [souritra01.github.io](https://souritra01.github.io)
+
