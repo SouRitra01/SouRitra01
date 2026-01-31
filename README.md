@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Souritra</h1>
 
-<h3 align="center">Operational Research BI Analyst Professional & Data Scientist Specialist from India</h3>
+<h3 align="center">Applied Data Scientist - expertise lies in Supply Chain domain</h3>
 
 ### 👨‍💻 About Me
 
