@@ -1,55 +1,170 @@
-<img src="https://analyticsindiamag.com/wp-content/uploads/2019/02/Digital-Marketing-Write-For-Us.gif" align="center" width="100%" />
-
-<h1 align="center">Hi 👋, I'm Souritra</h1>
-
-<h3 align="center">Applied Data Scientist - expertise lies in Supply Chain domain</h3>
-
-### 👨‍💻 About Me
-
-I’m an Applied Data Scientist at Amazon, bridging research science, data engineering, and operations to drive supply chain innovation. With over 5 years of experience across data science, machine learning and operational research, I transform raw data into actionable insights that deliver faster, smarter, and more efficient outcomes. Currently building supply chain intelligence at Amazon Development Center.
-
-### 🧰 Tech Stack & Tools
+<h1 align="center">Hi 👋, I'm Souritra Banerjee</h1>
+<h3 align="center">Applied Data Scientist | Production ML & MLOps | Supply Chain Systems</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+Building reliable ML systems that survive real-world operations — not just notebooks.
 </p>
 
-### 💡 What I Do
+---
 
--Leading ML forecasting systems and LLM-based solutions across global operations. 
--Delivered $450K annual savings through ensemble forecasting models and reduced investigation time by 60% with automated anomaly detection.
--Improved demand forecasting MAPE from 5.2% to 3.1%
--Built production MLOps pipelines for 8+ models
--Reduced model refresh latency by 65%
--My recent most impactful projects includes : 
-  -ML Forecasting System: Prophet + XGBoost ensemble predicting global demand across 10+ regions with 3.1% MAPE accuracy
-  -LLM Anomaly Detection :LangChain + OpenAI solution processing 50+ daily signals, reducing investigation time by 60%
-  -MLOps Automation : SageMaker pipelines with automated retraining, monitoring, and deployment for production models
-  -Transformer Research : Collaborated on BERT/RoBERTa experimentation achieving 28% recall improvement for NLP tasks
+## 👨‍💻 About Me
 
-  
-### 📝 Blogs & Articles
+I’m an **Applied Data Scientist** with deep experience at the intersection of **Machine Learning, MLOps, and large-scale operational systems**.
 
-I regularly write articles and blog posts about analytics, data science, NLP, and even cricket! Check out my writings on [Medium](https://medium.com/@Souritra_speaking).
+I specialize in turning research-grade models into **production-ready ML systems** that deliver measurable business impact — especially in **forecasting, anomaly detection, and decision automation**.
 
-### 📫 Connect with Me
+- 5+ years across Applied ML, Data Science, and Operations Research  
+- Strong focus on **model reliability, latency, monitoring, and trust**  
+- Experienced in owning models **end-to-end**: problem → deployment → adoption  
 
-Feel free to reach out:
+---
 
-- 💬 Ask me about data science and supply chain analytics [Connect 1:1](https://topmate.io/souritra_banerjee/)
+## 🧠 Key Technical Achievements
+
+### 📈 ML Forecasting Systems
+Prophet + XGBoost ensemble predicting global demand across **10+ regions**, achieving **3.1% MAPE** and improving planning accuracy at scale.
+
+### 🤖 LLM-based Anomaly Detection
+LangChain + OpenAI pipelines processing **50+ daily operational signals**, reducing investigation time by **60%** via automated root-cause summaries.
+
+### ⚙️ MLOps Automation
+Designed **SageMaker-based pipelines** with automated retraining, monitoring, rollback, and deployment for **8+ production models**.
+
+### 🔬 Transformer Research
+BERT / RoBERTa experimentation improving **NLP recall by 28%**, focused on real-world signal extraction and ranking tasks.
+
+---
+
+## 📌 Featured Work (Applied & Production-Focused)
+
+> A selection of projects that reflect how I think about **production ML, system design, and business impact**.
+
+### 🔹 Production ML Forecasting System
+**Time-series + ensemble modeling for large-scale demand prediction**
+
+- Prophet + XGBoost ensemble
+- Multi-region forecasting strategy
+- Evaluation beyond offline metrics (stability, adoption, trust)
+- Focus on production constraints & retraining strategy
+
+🔗 Repo: https://github.com/SouRitra01/forecasting-system
+
+---
+
+### 🔹 LLM-powered Anomaly Detection
+**Human-in-the-loop anomaly investigation using LLMs**
+
+- LangChain + OpenAI
+- Signal summarization & root-cause hints
+- Designed for analyst trust, not auto-decisions
+- Emphasis on fallback logic & guardrails
+
+🔗 Repo: https://github.com/SouRitra01/llm-anomaly-detection
+
+---
+
+### 🔹 End-to-End MLOps Pipeline
+**From training to monitoring with controlled retraining**
+
+- SageMaker pipelines
+- MLflow for experiment tracking
+- Automated retraining + rollback
+- Latency-aware deployment design
+
+🔗 Repo: https://github.com/SouRitra01/mlops-pipeline
+
+---
+
+### 🔹 Applied NLP / Transformer Experiments
+**Practical experimentation, not leaderboard chasing**
+
+- BERT / RoBERTa fine-tuning
+- Focus on recall-heavy business use cases
+- Error analysis & data-centric improvements
+
+🔗 Repo: https://github.com/SouRitra01/nlp-transformers
+
+---
+
+
+## 🧰 Technical Expertise
+
+### 🔹 ML & Deep Learning
+PyTorch, TensorFlow, Scikit-learn, XGBoost, LightGBM, Hugging Face Transformers
+
+### 🔹 LLMs & NLP
+Claude, OpenAI, LangChain, RAG pipelines, Prompt Engineering, Fine-tuning
+
+### 🔹 MLOps & Engineering
+SageMaker, MLflow, Docker, Kubernetes, CI/CD, Model Monitoring, Feature Pipelines
+
+### 🔹 Data & Analytics
+Python, SQL (PostgreSQL, Redshift), Time Series Analysis, A/B Testing
+
+### 🔹 Cloud Platforms
+AWS (SageMaker, Lambda, S3, Redshift, EC2), Git, Linux
+
+---
+
+## 📊 Quantified Business Impact
+
+| Metric | Impact |
+|------|------|
+| **$500K+** | Total quantified ML-driven impact |
+| **$450K** | Annual inventory & forecasting savings |
+| **$2M** | Revenue contribution via experimentation & optimization |
+| **65%** | Reduction in model refresh latency |
+| **60%** | Investigation time saved through automation |
+| **8+** | Production ML models owned end-to-end |
+
+---
+
+## 📝 Writing & Knowledge Sharing
+
+I regularly write about:
+- Applied ML in production
+- MLOps realities beyond dashboards
+- LLM systems & operational tradeoffs
+- Career transitions into Data & AI
+
+📖 Read on Medium:  
+👉 **https://medium.com/@Souritra_speaking**
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=SouRitra01&show_icons=false&hide_title=true&hide_border=true&count_private=true&theme=github_dark"
+    alt="GitHub stats"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouRitra01&layout=compact&hide_border=true&theme=github_dark"
+    alt="Top languages"
+  />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+- 💬 1:1 Mentorship & Consulting:  
+  👉 https://topmate.io/souritra_banerjee/
 - 📧 Email: **souritra.banerjee@gmail.com**
-- 🔗 LinkedIn: [Souritra Banerjee](https://www.linkedin.com/in/souritra1/)
-- 🧑‍💻 GitHub: [SouRitra01](https://github.com/SouRitra01)
-- 🌐 Portfolio: [souritra-banerjee-5gj1e23.gamma.site/)]([https://souritra01.github.io](https://souritra-banerjee-5gj1e23.gamma.site/))
+- 🔗 LinkedIn:  
+  👉 https://www.linkedin.com/in/souritra1/
+- 🧑‍💻 GitHub:  
+  👉 https://github.com/SouRitra01
+- 🌐 Portfolio:  
+  👉 https://souritra-banerjee-5gj1e23.gamma.site/
+
+---
+
+<p align="center">
+⚙️ Building ML systems is easy. Building ML systems people trust is the real work.
+</p>
 
