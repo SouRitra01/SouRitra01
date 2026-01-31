@@ -130,23 +130,6 @@ I regularly write about:
 📖 Read on Medium:  
 👉 **https://medium.com/@Souritra_speaking**
 
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=SouRitra01&show_icons=false&hide_title=true&hide_border=true&count_private=true&theme=github_dark"
-    alt="GitHub stats"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouRitra01&layout=compact&hide_border=true&theme=github_dark"
-    alt="Top languages"
-  />
-</p>
 
 ---
 
