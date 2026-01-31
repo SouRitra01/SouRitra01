@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 
-I’m a Applied Data Scientist at Amazon, bridging research science, data engineering, and operations to drive supply chain innovation. With over 5 years of experience across data analytics, machine learning and operational research, I transform raw data into actionable insights that deliver faster, smarter, and more efficient outcomes. Currently working at Amazon Development Center.
+I’m an Applied Data Scientist at Amazon, bridging research science, data engineering, and operations to drive supply chain innovation. With over 5 years of experience across data science, machine learning and operational research, I transform raw data into actionable insights that deliver faster, smarter, and more efficient outcomes. Currently building supply chain intelligence at Amazon Development Center.
 
 ### 🧰 Tech Stack & Tools
 
