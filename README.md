@@ -27,12 +27,18 @@ I’m an Applied Data Scientist at Amazon, bridging research science, data engin
 
 ### 💡 What I Do
 
-- Build and maintain analytics pipelines using AWS (Redshift, S3, Glue, Lambda) and Azure.
-- Design interactive dashboards in Power BI, QuickSight, and Tableau to empower self-service analytics.
-- Develop predictive models and machine learning solutions using Python, R, and SQL.
-- Architect ETL frameworks and CI/CD pipelines that enable robust data operations.
-- Mentor aspiring data professionals and share knowledge through community outreach.
+-Leading ML forecasting systems and LLM-based solutions across global operations. 
+-Delivered $450K annual savings through ensemble forecasting models and reduced investigation time by 60% with automated anomaly detection.
+-Improved demand forecasting MAPE from 5.2% to 3.1%
+-Built production MLOps pipelines for 8+ models
+-Reduced model refresh latency by 65%
+-My recent most impactful projects includes : 
+  -ML Forecasting System: Prophet + XGBoost ensemble predicting global demand across 10+ regions with 3.1% MAPE accuracy
+  -LLM Anomaly Detection :LangChain + OpenAI solution processing 50+ daily signals, reducing investigation time by 60%
+  -MLOps Automation : SageMaker pipelines with automated retraining, monitoring, and deployment for production models
+  -Transformer Research : Collaborated on BERT/RoBERTa experimentation achieving 28% recall improvement for NLP tasks
 
+  
 ### 📝 Blogs & Articles
 
 I regularly write articles and blog posts about analytics, data science, NLP, and even cricket! Check out my writings on [Medium](https://medium.com/@Souritra_speaking).
@@ -41,9 +47,9 @@ I regularly write articles and blog posts about analytics, data science, NLP, an
 
 Feel free to reach out:
 
-- 💬 Ask me about data science and analytics [Connect 1:1](https://topmate.io/souritra_banerjee/)
+- 💬 Ask me about data science and supply chain analytics [Connect 1:1](https://topmate.io/souritra_banerjee/)
 - 📧 Email: **souritra.banerjee@gmail.com**
 - 🔗 LinkedIn: [Souritra Banerjee](https://www.linkedin.com/in/souritra1/)
 - 🧑‍💻 GitHub: [SouRitra01](https://github.com/SouRitra01)
-- 🌐 Portfolio: [souritra01.github.io](https://souritra01.github.io)
+- 🌐 Portfolio: [souritra-banerjee-5gj1e23.gamma.site/)]([https://souritra01.github.io](https://souritra-banerjee-5gj1e23.gamma.site/))
 
